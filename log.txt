@@ -1,0 +1,304 @@
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.ISOSCELES - line: 31
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.EQUILATERAL - line: 27
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+TriangleException.java:methodDeclaration:TriangleException - line: 6
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.SCALENE - line: 34
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.ISOSCELES - line: 31
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+TriangleException.java:methodDeclaration:TriangleException - line: 6
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.ISOSCELES - line: 31
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.SCALENE - line: 34
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.SCALENE - line: 34
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+TriangleException.java:methodDeclaration:TriangleException - line: 6
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.ISOSCELES - line: 31
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+TriangleException.java:methodDeclaration:TriangleException - line: 6
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+TriangleException.java:methodDeclaration:TriangleException - line: 6
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.SCALENE - line: 34
+Triangle.java:methodDeclaration:Triangle - line: 13
+Triangle.java:assignment:this.side1 - line: 14
+Triangle.java:assignment:this.side2 - line: 15
+Triangle.java:assignment:this.side3 - line: 16
+Triangle.java:methodInvocation:allSidesAreZero - line: 18
+Triangle.java:methodInvocation:hasImpossibleSides - line: 18
+Triangle.java:methodInvocation:violatesTriangleInequality - line: 18
+Triangle.java:methodDeclaration:allSidesAreZero - line: 39
+Triangle.java:return:side1 == 0 && side2 == 0 && side3 == 0 - line: 40
+Triangle.java:methodDeclaration:hasImpossibleSides - line: 43
+Triangle.java:return:side1 < 0 || side2 < 0 || side3 < 0 - line: 44
+Triangle.java:methodDeclaration:violatesTriangleInequality - line: 47
+Triangle.java:return:side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1 - line: 48
+Triangle.java:methodDeclaration:getKind - line: 23
+Triangle.java:variableDeclaration:[uniqueSides=getNumberOfUniqueSides()] - line: 24
+Triangle.java:methodInvocation:getNumberOfUniqueSides - line: 24
+Triangle.java:methodDeclaration:getNumberOfUniqueSides - line: 52
+Triangle.java:variableDeclaration:[sides=new HashSet<>()] - line: 53
+Triangle.java:methodInvocation:add - line: 55
+Triangle.java:methodInvocation:add - line: 56
+Triangle.java:methodInvocation:add - line: 57
+Triangle.java:return:sides.size() - line: 59
+Triangle.java:methodInvocation:size - line: 59
+Triangle.java:return:TriangleKind.EQUILATERAL - line: 27
